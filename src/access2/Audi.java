@@ -6,7 +6,7 @@ public class Audi extends Car{
 
 	public static void main(String[] args) {
 		Car c = new Car();
-		c.color="blue";
+		c.color="white";
 		
 		Audi a = new Audi();
 		a.color="red";
